@@ -12,14 +12,21 @@ public class Mygitclass {
 
 		public static  void  Browserfact() 
 		{
-			
 			System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-		        driver=new ChromeDriver();
-				driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		        driver.get("https://phptravels.com/");
-		     	driver.manage().window().maximize();
+	        driver=new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	        driver.get("https://phptravels.com/");
+	     	driver.manage().window().maximize();
 		      
-
+	     	System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
+	        driver=new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	        driver.get("https://phptravels.com/");
+	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
+	        driver=new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	        driver.get("https://phptravels.com/");
+	     	driver.manage().window().maximize();
 			}	 
 
 
