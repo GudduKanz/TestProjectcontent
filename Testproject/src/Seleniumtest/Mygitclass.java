@@ -18,77 +18,7 @@ public class Mygitclass {
 	        driver.get("https://phptravels.com/");
 	     	driver.manage().window().maximize();
 		      
-	     	System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();
-	        
-	     	System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();    
-	     	System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();
-	     	em.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");em.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");em.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");em.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	    
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	        driver=new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	        driver.get("https://phptravels.com/");
-	     	driver.manage().window().maximize();System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
-	        driver=new ChromeDriver();
-		
+	     
 			}	 
 
 
