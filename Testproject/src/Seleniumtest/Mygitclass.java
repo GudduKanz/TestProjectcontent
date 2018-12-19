@@ -17,7 +17,7 @@ public class Mygitclass {
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	        driver.get("https://phptravels.com/");
 	     	driver.manage().window().maximize();
-		      
+	     	driver=new ChromeDriver();
 	     
 			}	 
 
